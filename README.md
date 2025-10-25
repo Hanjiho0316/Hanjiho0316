@@ -1,4 +1,4 @@
-# 👋 Hi, There
+# 👋 Han Ji Ho
 메카트로닉스공학을 전공하고, **딥러닝 기반 3D 의료 영상 분석**과 **인공지능 응용 연구**를 진행하고 있습니다.  
 특히 **Vision Transformer**, **Multi-Task Learning**, **EEG 기반 의도 인식** 등에 관심이 많습니다.  
 
