@@ -1,80 +1,79 @@
-# 👋 Hi, Han Ji Ho
-메카트로닉스공학을 전공하고, **딥러닝 기반 3D 의료 영상 분석**과 **인공지능 응용 연구**를 진행하고 있습니다.  
-특히 **Vision Transformer**, **Multi-Task Learning**, **EEG 기반 의도 인식** 등에 관심이 많습니다.  
+# 👋 Hi, Han Ji Ho  
+
+메카트로닉스공학을 전공하며 **AI Vision 기반 지능형 시스템**과 **임베디드 제어 시스템**을 융합하는 연구를 진행하고 있습니다.  
+딥러닝 모델 설계부터 실제 하드웨어 연동까지 구현하는 **AI + Embedded 통합 엔지니어링**에 관심이 있습니다.
 
 ---
 
-## 🧠 소개
-- CT 기반 **피질골(Cortical)·해면골(Trabecular) 특성 예측 모델** 연구  
-- EEG 신호를 활용한 **손가락 재활운동 기구 제어 시스템** 개발  
-- OpenCV, MediaPipe 기반의 **운전자 졸음 감지 시스템** 구현  
-- PyTorch, TensorFlow, PyQt, Arduino 등 다양한 기술 스택으로 프로젝트 수행  
+## 🔬 Research & Engineering Focus
+
+- 3D CT 기반 **의료 영상 특성 예측 모델 개발**
+- Vision Transformer 기반 **고차원 이미지 분석**
+- EEG 기반 **의도 인식 및 실시간 제어 시스템**
+- Computer Vision 기반 **실시간 임베디드 응용 시스템 구현**
 
 ---
 
-## 🚀 주요 프로젝트
+## 🚀 Featured Projects
 
-### 🦴 Cortical 및 Trabecular 특성 예측을 위한 Multi-Task Learning  
-- 3D CNN, CNN+Transformer, ViT+LSTM 등 다양한 모델을 구현하여 성능 비교  
-- Stratified K-Fold, Early Stopping, LR Scheduler 적용  
-- CT 기반 데이터셋에서 **MSE 15% 향상** 달성  
-
-### 🧠 뇌파 기반 손가락 재활운동 기구 설계  
-- EEG 신호를 통해 **손가락 운동 의도 인식 모델** 구현  
-- Arduino 기반 모터 제어 시스템과 연동  
-- 의도 인식률 **25% 향상**, 반응 정밀도 개선  
-
-### 🚗 운전자 졸음 감지 시스템 (OpenCV / MediaPipe)  
-- 얼굴 인식 + 졸음 판단 모델 개발 및 실시간 경고 시스템 구축  
-- Transfer Learning으로 탐지 정확도 향상  
-- PyQt GUI를 통해 사용자 친화적 인터페이스 구현  
+### 🦴 3D Medical Image Multi-Task Learning
+- 3D CNN, CNN+Transformer, ViT+LSTM 구조 비교 분석
+- Stratified K-Fold / Early Stopping / LR Scheduler 적용
+- CT 기반 데이터셋에서 **MSE 15% 개선**
+- 모델 설계부터 학습 파이프라인 최적화까지 전체 구현
 
 ---
 
-## 🛠️ 기술 스택
-
-<div align="center">
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 🤖 Deep Learning Frameworks  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🧩 Computer Vision / Signal Processing  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![EEG](https://img.shields.io/badge/EEG%20Signal-009688?style=for-the-badge)
-![3D Imaging](https://img.shields.io/badge/3D%20Image%20Processing-673AB7?style=for-the-badge)
-
-### ⚙️ Tools & Platforms  
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+### 🧠 EEG 기반 손가락 재활운동 제어 시스템
+- EEG 신호를 활용한 **운동 의도 인식 모델 개발**
+- 실시간 분류 결과를 Arduino 모터 제어 시스템과 연동
+- 인식률 **25% 향상**, 제어 반응성 개선
+- AI 모델 + 임베디드 하드웨어 통합 설계
 
 ---
 
-## 📊 GitHub 통계
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiho-han&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho-han&layout=compact&theme=tokyonight)
-
-</div>
+### 🚗 Vision 기반 운전자 졸음 감지 시스템
+- 얼굴 랜드마크 기반 졸음 판단 알고리즘 구현
+- Transfer Learning 적용으로 정확도 향상
+- PyQt GUI 및 실시간 경고 시스템 설계
+- 실시간 영상 처리 + 경량 모델 최적화
 
 ---
 
-## 📫 연락처  
+## 🛠 Core Technical Stack
+
+### 🤖 AI / Deep Learning
+- PyTorch  
+- TensorFlow  
+- 3D CNN  
+- Vision Transformer  
+- Multi-Task Learning  
+- Time-Series & Signal Processing  
+
+### 👁 Computer Vision
+- OpenCV  
+- MediaPipe  
+- Real-time Video Processing  
+- 3D Image Processing  
+
+### ⚙️ Embedded & Control
+- Arduino  
+- Motor Control  
+- Sensor Integration  
+- Real-Time System Design  
+
+### 💻 Programming
+- Python  
+- C  
+- MATLAB  
+- Linux  
+
+---
+
+## 📫 Contact
 📧 **skhjh0316@gmail.com**  
-🌐 [포트폴리오 바로가기](https://hanjiho.journoportfolio.com/)  
+🌐 https://hanjiho.journoportfolio.com/
 
 ---
 
-⭐️ *AI와 Vision 기술을 통해 의료 영상 분석 및 인간 중심 인터페이스를 발전시키는 연구자가 되는 것이 목표입니다.*
+⭐️ *AI Vision 모델을 실제 시스템으로 구현하는 엔지니어가 되는 것을 목표로 합니다.*
