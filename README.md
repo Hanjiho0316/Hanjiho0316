@@ -16,7 +16,7 @@
 
 ## 🚀 Featured Projects
 
-### 🦴 3D Medical Image Multi-Task Learning
+### 🦴 [3D Medical Image Multi-Task Learning]([https://github.com/jiho-han/CT-3D-Bone-Property-Research](https://github.com/Hanjiho0316/CT-3D-Bone-Property-Research))
 - 3D CNN, CNN+Transformer, ViT+LSTM 구조 비교 분석
 - Stratified K-Fold / Early Stopping / LR Scheduler 적용
 - CT 기반 데이터셋에서 **MSE 15% 개선**
@@ -24,7 +24,7 @@
 
 ---
 
-### 🧠 EEG 기반 손가락 재활운동 제어 시스템
+### 🧠 [EEG 기반 손가락 재활운동 제어 시스템]([https://github.com/jiho-han/EEG-Rehab-System](https://github.com/Hanjiho0316/BrainWave-wearable-system))
 - EEG 신호를 활용한 **운동 의도 인식 모델 개발**
 - 실시간 분류 결과를 Arduino 모터 제어 시스템과 연동
 - 인식률 **25% 향상**, 제어 반응성 개선
@@ -32,7 +32,7 @@
 
 ---
 
-### 🚗 Vision 기반 운전자 졸음 감지 시스템
+### 🚗 [Vision 기반 운전자 졸음 감지 시스템]([https://github.com/jiho-han/Drowsiness-Detection-System](https://github.com/Hanjiho0316/Eye_Blink_Detection_using_Dlib_MediaPipe_Transfer_Learning))
 - 얼굴 랜드마크 기반 졸음 판단 알고리즘 구현
 - Transfer Learning 적용으로 정확도 향상
 - PyQt GUI 및 실시간 경고 시스템 설계
