@@ -40,6 +40,18 @@
 
 ---
 
+### ⚾ [AI Pitching Analysis System](https://github.com/Hanjiho0316/AI_Pitching_analysis_system)
+- Computer Vision 기반 **야구 투구폼 분석 및 투수 식별 시스템**
+- MediaPipe Pose를 활용한 **스켈레톤 추출 및 시계열 데이터 생성**
+- 딥러닝 모델을 통한 **투수 스타일 분류 및 유사도 분석**
+- Flask 기반 **웹 업로드 및 실시간 추론 UI 구현**
+- 영상 전처리 → 특징 추출 → 모델 추론까지 **End-to-End 파이프라인 구축**
+- 다중 클래스 분류 기반 **투수 식별 (Top-k 결과 제공)**
+- Confidence score 기반 결과 정렬 및 시각화
+- 가장 가까운 인물을 선택하는 **Tracking 안정화 로직 적용**
+
+---
+
 ## 🛠 Core Technical Stack
 
 ### 🤖 AI / Deep Learning
