@@ -35,7 +35,7 @@
 ### 🚗 [Vision 기반 운전자 졸음 감지 시스템](https://github.com/Hanjiho0316/Eye_Blink_Detection_using_Dlib_MediaPipe_Transfer_Learning)
 - 얼굴 랜드마크 기반 졸음 판단 알고리즘 구현
 - Transfer Learning 적용으로 정확도 향상
-- PyQt GUI 및 실시간 경고 시스템 설계
+- 실시간 경고 시스템 설계
 - 실시간 영상 처리 + 경량 모델 최적화
 
 ---
