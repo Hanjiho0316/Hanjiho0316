@@ -14,6 +14,8 @@
 
 ---
 
+
+
 ## 🚀 Featured Projects
 
 ### 🛡️ [STM32 Multi-Layer Security Control System](https://github.com/Hanjiho0316/Embedded-Security-System)
@@ -22,6 +24,17 @@
 - UART 통신을 활용한 **실시간 모터 속도(PWM) 및 방향 제어** 인터페이스 구축
 - 전압 분배 회로 설계 및 비트 마스킹 기법을 적용한 **하드웨어 최적화**
 - 인증 성공 시에만 동작하는 **상태 머신(State Machine) 기반 보안 로직** 설계
+
+---
+
+### 🚗 [STM32 RC Car Wireless Control System](https://github.com/Hanjiho0316/STM32_RCCAR_CONTROLLER)
+- **HC-05 블루투스 모듈**을 활용한 STM32 간 무선 통신 기반 RC카 제어 시스템 구현  
+- UART 인터페이스를 통해 명령 데이터를 송수신하고, Checksum 기반으로 **데이터 무결성 검증**  
+- Timer 기반 PWM을 활용하여 DC 모터 속도를 제어하고, **차동 구동(Differential Drive)** 방식으로 방향 제어 구현  
+- 조향장치 없이 좌우 바퀴 속도 차이를 이용한 **효율적인 회전 제어 시스템 설계**  
+- 초음파 센서, 조도 센서, I2C LCD, MAX7219 도트 매트릭스, 부저를 활용한 **인터랙티브 레이스 시스템 구현**  
+- 출발 대기 → 카운트다운 → 주행 → 결승 판별까지 이어지는 **상태 기반(State Machine) 제어 로직 설계**  
+- 전원 분리를 통해 모터 역기전력(Back EMF)으로 인한 통신 불안정 문제를 해결하고, 이벤트 기반 통신으로 **레이턴시 최소화**
 
 ---
 
